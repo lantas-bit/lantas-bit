@@ -15,7 +15,10 @@
  
 <div align="center"> 
   <a href="https://lantas.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://discord.gg/M9cD8ZC5m8" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 </div>
 
