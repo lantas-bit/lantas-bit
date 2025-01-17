@@ -8,9 +8,9 @@
 
 <div align="center">
  
- I’m currently working on **nothing**
+ I’m currently working on **something**
  
- I’m currently learning **HTML, CSS, JavaScript**
+ I’m currently learning **nothing**
  </div>
  
 <div align="center"> 
