@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lantas!;" />
 </h1>
 
-<h3 align="center">A noob software engineer</h3>
+<h3 align="center">A noob developer</h3>
 
 <br/>
 
 <div align="center">
  
- I’m currently working on **something**
+ I’m currently working on **something cool**
  
- I’m currently learning **nothing**
+ I’m currently learning **full-stack web development**
  </div>
  
 <div align="center"> 
@@ -24,10 +24,10 @@
 
  <hr/>
  
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,csharp,cplusplus,php,js,html,css,python,vscode,github" /><br>
+    <img src="https://skillicons.dev/icons?i=lua,csharp,cpp,php,js,ts,html,css,python,nodejs,express,nextjs,react,vue,svelte,tailwind,bootstrap,mysql,postgres,mongodb,vscode,github,git,vercel,cloudflare" /><br>
 </div>
 
 <br/>
