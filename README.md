@@ -10,7 +10,7 @@
  
  I’m currently working on **something cool**
  
- I’m currently learning **full-stack web development**
+ I’m currently learning **something cool**
  </div>
  
 <div align="center"> 
